@@ -1,0 +1,11 @@
+.contenedor-principal{
+    width: 1170px;
+    height: 500px;
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #dfdce3ce;
+    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.7);
+}
+
